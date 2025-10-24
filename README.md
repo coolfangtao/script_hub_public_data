@@ -1,0 +1,2 @@
+# script_hub_public_data
+用于存放脚本涉及的公共数据
